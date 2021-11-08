@@ -12,7 +12,7 @@ function MyApp() {
       <ul>
         <li>Maldives</li>
         <li>Raja Ampat</li>
-        <li>Paris</li>
+        <li>Milan</li>
       </ul>
     </div>
   );
